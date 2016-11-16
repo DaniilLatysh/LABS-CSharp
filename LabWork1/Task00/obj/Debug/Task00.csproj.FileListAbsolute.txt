@@ -1,0 +1,5 @@
+D:\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task00\bin\Debug\Task00.exe.config
+D:\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task00\bin\Debug\Task00.exe
+D:\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task00\bin\Debug\Task00.pdb
+D:\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task00\obj\Debug\Task00.exe
+D:\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task00\obj\Debug\Task00.pdb

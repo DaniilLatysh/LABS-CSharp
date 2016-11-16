@@ -1,0 +1,5 @@
+Car Ford 2546 220 5
+Moto Suzuki 7785 330 2 0
+Moto Java 6663 90 4 1
+Truck MAZ 2209 130 10 1
+Truck MAN 5687 150 15 0

@@ -1,0 +1,413 @@
+D:\TestFolder\POIS\50326-1 Латыш\Laba3 var4\data.txt Date: 11/6/2016 10:48:48 PM
+D:\TestFolder\POIS\AOS\50326-1\p1.txt Date: 11/6/2016 10:48:48 PM
+D:\TestFolder\POIS\AOS\50326-1\p2.txt Date: 11/6/2016 10:48:48 PM
+D:\TestFolder\POIS\AOS\50326-1\cx\c11\f1.txt Date: 11/6/2016 10:48:48 PM
+D:\TestFolder\POIS\AOS\50326-1\Lab3\txt_exp.reg Date: 11/6/2016 10:48:48 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Frolov\javasamples\vol7\vol7_3\CopyTxtFile.zip Date: 11/6/2016 10:48:56 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Frolov\javasamples\vol8\vol8_3\TxtFileView.zip Date: 11/6/2016 10:48:56 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\REGHELPR\README.TXT Date: 11/6/2016 10:48:56 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Rodgers_COM\README.TXT Date: 11/6/2016 10:48:57 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Rodgers_COM\INSIDECOM\README.TXT Date: 11/6/2016 10:48:57 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Rodgers_COM\INSIDECOM\SETUP.TXT Date: 11/6/2016 10:48:57 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Rodgers_COM\INSIDECOM\ATL\README.TXT Date: 11/6/2016 10:48:57 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Rodgers_COM\INSIDECOM\ATL\WINNT351\README.TXT Date: 11/6/2016 10:48:57 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Rodgers_COM\INSIDECOM\CODE\CHAP06\README.TXT Date: 11/6/2016 10:48:57 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Rodgers_COM\INSIDECOM\COMP_CAT\CCDIST\LICENSE.TXT Date: 11/6/2016 10:48:58 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Rodgers_COM\INSIDECOM\COMP_CAT\CCDIST\README.TXT Date: 11/6/2016 10:48:58 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Rodgers_COM\INSIDECOM\COMP_CAT\CCDIST\REDIST.TXT Date: 11/6/2016 10:48:58 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Rodgers_COM\INSIDECOM\COMP_CAT\OLEVIEW\README.TXT Date: 11/6/2016 10:48:58 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Rodgers_COM\INSIDECOM\COM_SPEC\README.TXT Date: 11/6/2016 10:48:58 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Rodgers_COM\INSIDECOM\DCOM\DCOMSPEC.TXT Date: 11/6/2016 10:48:58 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Rodgers_COM\INSIDECOM\DCOM\README.TXT Date: 11/6/2016 10:48:58 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Rodgers_COM\INSIDECOM\Miscellaneous\README.TXT Date: 11/6/2016 10:48:58 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Rodgers_COM\INSIDECOM\OPENGL95\README.TXT Date: 11/6/2016 10:48:58 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Rodgers_COM\INSIDECOM\TANGRAM\README.TXT Date: 11/6/2016 10:48:58 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Solomon\сопроводительные_материалы!\Readme.txt Date: 11/6/2016 10:48:58 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Solomon\сопроводительные_материалы!\Debuggers\dd.txt Date: 11/6/2016 10:48:58 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Solomon\сопроводительные_материалы!\Debuggers\relnotes.txt Date: 11/6/2016 10:48:58 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Solomon\сопроводительные_материалы!\Ebook\LICENSE.TXT Date: 11/6/2016 10:48:58 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Solomon\сопроводительные_материалы!\Ebook\README.TXT Date: 11/6/2016 10:48:58 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Solomon\сопроводительные_материалы!\Setup\SETUP.TXT Date: 11/6/2016 10:48:58 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Solomon\сопроводительные_материалы!\Sysinternals-Website\Bluescrn.txt Date: 11/6/2016 10:48:58 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\ReadMe.txt Date: 11/6/2016 10:48:59 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 01\DrawTemplate\ReadMe.txt Date: 11/6/2016 10:49:00 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 02\Shapes\ReadMe.txt Date: 11/6/2016 10:49:00 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 03\CoCarApp\ReadMe.txt Date: 11/6/2016 10:49:00 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 03\CoTextClient\ReadMe.txt Date: 11/6/2016 10:49:00 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 04\CarServerTypeInfo\CPP Import Client\ReadMe.txt Date: 11/6/2016 10:49:00 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 04\ShapesIDL\ReadMe.txt Date: 11/6/2016 10:49:00 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 05\CoCarEXE\ReadMe.txt Date: 11/6/2016 10:49:00 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 05\CPP Remote Client\ReadMe.txt Date: 11/6/2016 10:49:00 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 06\ATLShapesServer\CPP Client\ReadMe.txt Date: 11/6/2016 10:49:00 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 07\RawErrors\CPP Client\ReadMe.txt Date: 11/6/2016 10:49:00 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 08\ATLVehicals\CPP Client\ReadMe.txt Date: 11/6/2016 10:49:00 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 09\ATLShapes\CPP Client\ReadMe.txt Date: 11/6/2016 10:49:00 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 10\DualObject\MFC Client\ReadMe.txt Date: 11/6/2016 10:49:00 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 10\RawDisp\CPP Client\ReadMe.txt Date: 11/6/2016 10:49:00 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 11\AgeEnum\Client\ReadMe.txt Date: 11/6/2016 10:49:00 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 11\ATLEnumServer\CPP Client\ReadMe.txt Date: 11/6/2016 10:49:01 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 12\CarCallback\CPP Client\ReadMe.txt Date: 11/6/2016 10:49:01 PM
+D:\TestFolder\POIS\AOS\АОС Таня\Helpers\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 12\RawConnObjServer\CPP Client\ReadMe.txt Date: 11/6/2016 10:49:01 PM
+D:\TestFolder\POIS\AOS\АОС Таня\OS_Alamos\Аос_4032_33_\Lab_4_AOS\dmde-free-2.2.0-win32-con\eula_en.txt Date: 11/6/2016 10:49:01 PM
+D:\TestFolder\POIS\AOS\АОС Таня\OS_Alamos\Аос_4032_33_\Lab_4_AOS\dmde-free-2.2.0-win32-con\ondeverr.txt Date: 11/6/2016 10:49:01 PM
+D:\TestFolder\POIS\AOS\АОС Таня\OS_Alamos\Аос_4032_33_\Lab_4_AOS\dmde-free-2.2.0-win32-con\readmeen.txt Date: 11/6/2016 10:49:01 PM
+D:\TestFolder\POIS\AOS\АОС Таня\OS_Alamos\Аос_4032_33_\Lab_4_AOS\dmde-free-2.2.0-win32-con\versions.txt Date: 11/6/2016 10:49:01 PM
+D:\TestFolder\POIS\AOS\АОС Таня\OS_Alamos\Аос_4032_33_\Lab_4_AOS\dmde-free-2.2.0-win32-con\locals\eula_ru.txt Date: 11/6/2016 10:49:01 PM
+D:\TestFolder\POIS\AOS\АОС Таня\OS_Alamos\Аос_4032_33_\Lab_4_AOS\dmde-free-2.2.0-win32-con\locals\readmeru.txt Date: 11/6/2016 10:49:01 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\SP_LB-1-6\Line_drawing_plus_frame\ReadMe.txt Date: 11/6/2016 10:49:03 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\SP_LB-2-1\Доп материал\Управление блокнотом\Notepade_controling\Notepade_controling\ReadMe.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\SP_LB-2-2\примеры\two streams in a console\ReadMe.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\SP_LB-2-3\WaitableTimer In a Console.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\SP_LB-2-5\FileRev\Text1.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\SP_LB-2-5\FileRev\Debug\Text1.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\SP_LB-2-5\MMFShare\Text2.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 1.1.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 1.10.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 1.11.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 1.12.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 1.13.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 1.14.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 1.15.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 1.2.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 1.3.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 1.4.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 1.5.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 1.6.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 1.7.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 1.8.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 1.9.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 2.1.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 2.2.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 2.3.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 2.4.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 3.1.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 3.2.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 3.3.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 3.4.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 3.5.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 3.6.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 3.7.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 3.8.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 4.1.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 4.10.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 4.11.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 4.2.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 4.3.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 4.4.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 4.5.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 4.6.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 4.7.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 4.8.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 4.9.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 5.1.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 5.2.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 5.3.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 5.4.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 6.1.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 6.11.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 6.12.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 6.13.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 6.14.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 6.2.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 6.3.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 6.4.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 6.5.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 6.6.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 6.7.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 6.8.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг 6.9.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг П.1.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\СП_5032(33)(31)\Литература\Литвиненко Н.А.-Технология программирования на С++. Win32 API-приложения-2010\Листинги.txt\Листинг П.2.txt Date: 11/6/2016 10:49:04 PM
+D:\TestFolder\POIS\AOS\АОС Таня\ТКП_4032(33)(31)\TКП_ЛБ4\TstCon\hlp\popups.txt Date: 11/6/2016 10:49:05 PM
+D:\TestFolder\POIS\AOS\АОС Таня\ТКП_4032(33)(31)\TКП_ЛБ4\TstCon_2010\hlp\popups.txt Date: 11/6/2016 10:49:06 PM
+D:\TestFolder\POIS\AOS\АОС Таня\ТКП_4032(33)(31)\TКП_ЛБ4\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\ReadMe.txt Date: 11/6/2016 10:49:06 PM
+D:\TestFolder\POIS\AOS\АОС Таня\ТКП_4032(33)(31)\TКП_ЛБ4\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 01\DrawTemplate\ReadMe.txt Date: 11/6/2016 10:49:06 PM
+D:\TestFolder\POIS\AOS\АОС Таня\ТКП_4032(33)(31)\TКП_ЛБ4\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 02\Shapes\ReadMe.txt Date: 11/6/2016 10:49:06 PM
+D:\TestFolder\POIS\AOS\АОС Таня\ТКП_4032(33)(31)\TКП_ЛБ4\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 03\CoCarApp\ReadMe.txt Date: 11/6/2016 10:49:06 PM
+D:\TestFolder\POIS\AOS\АОС Таня\ТКП_4032(33)(31)\TКП_ЛБ4\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 03\CoTextClient\ReadMe.txt Date: 11/6/2016 10:49:06 PM
+D:\TestFolder\POIS\AOS\АОС Таня\ТКП_4032(33)(31)\TКП_ЛБ4\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 04\CarServerTypeInfo\CPP Import Client\ReadMe.txt Date: 11/6/2016 10:49:06 PM
+D:\TestFolder\POIS\AOS\АОС Таня\ТКП_4032(33)(31)\TКП_ЛБ4\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 04\ShapesIDL\ReadMe.txt Date: 11/6/2016 10:49:06 PM
+D:\TestFolder\POIS\AOS\АОС Таня\ТКП_4032(33)(31)\TКП_ЛБ4\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 05\CoCarEXE\ReadMe.txt Date: 11/6/2016 10:49:06 PM
+D:\TestFolder\POIS\AOS\АОС Таня\ТКП_4032(33)(31)\TКП_ЛБ4\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 05\CPP Remote Client\ReadMe.txt Date: 11/6/2016 10:49:06 PM
+D:\TestFolder\POIS\AOS\АОС Таня\ТКП_4032(33)(31)\TКП_ЛБ4\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 06\ATLShapesServer\CPP Client\ReadMe.txt Date: 11/6/2016 10:49:06 PM
+D:\TestFolder\POIS\AOS\АОС Таня\ТКП_4032(33)(31)\TКП_ЛБ4\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 07\RawErrors\CPP Client\ReadMe.txt Date: 11/6/2016 10:49:06 PM
+D:\TestFolder\POIS\AOS\АОС Таня\ТКП_4032(33)(31)\TКП_ЛБ4\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 08\ATLVehicals\CPP Client\ReadMe.txt Date: 11/6/2016 10:49:06 PM
+D:\TestFolder\POIS\AOS\АОС Таня\ТКП_4032(33)(31)\TКП_ЛБ4\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 09\ATLShapes\CPP Client\ReadMe.txt Date: 11/6/2016 10:49:07 PM
+D:\TestFolder\POIS\AOS\АОС Таня\ТКП_4032(33)(31)\TКП_ЛБ4\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 10\DualObject\MFC Client\ReadMe.txt Date: 11/6/2016 10:49:07 PM
+D:\TestFolder\POIS\AOS\АОС Таня\ТКП_4032(33)(31)\TКП_ЛБ4\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 10\RawDisp\CPP Client\ReadMe.txt Date: 11/6/2016 10:49:07 PM
+D:\TestFolder\POIS\AOS\АОС Таня\ТКП_4032(33)(31)\TКП_ЛБ4\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 11\AgeEnum\Client\ReadMe.txt Date: 11/6/2016 10:49:07 PM
+D:\TestFolder\POIS\AOS\АОС Таня\ТКП_4032(33)(31)\TКП_ЛБ4\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 11\ATLEnumServer\CPP Client\ReadMe.txt Date: 11/6/2016 10:49:07 PM
+D:\TestFolder\POIS\AOS\АОС Таня\ТКП_4032(33)(31)\TКП_ЛБ4\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 12\CarCallback\CPP Client\ReadMe.txt Date: 11/6/2016 10:49:07 PM
+D:\TestFolder\POIS\AOS\АОС Таня\ТКП_4032(33)(31)\TКП_ЛБ4\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 12\RawConnObjServer\CPP Client\ReadMe.txt Date: 11/6/2016 10:49:07 PM
+D:\TestFolder\POIS\AOS\АОС Таня\ТКП_4032(33)(31)\ТКП_ЛБ3_11.11.13\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\ReadMe.txt Date: 11/6/2016 10:49:08 PM
+D:\TestFolder\POIS\AOS\АОС Таня\ТКП_4032(33)(31)\ТКП_ЛБ3_11.11.13\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 01\DrawTemplate\ReadMe.txt Date: 11/6/2016 10:49:08 PM
+D:\TestFolder\POIS\AOS\АОС Таня\ТКП_4032(33)(31)\ТКП_ЛБ3_11.11.13\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 02\Shapes\ReadMe.txt Date: 11/6/2016 10:49:08 PM
+D:\TestFolder\POIS\AOS\АОС Таня\ТКП_4032(33)(31)\ТКП_ЛБ3_11.11.13\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 03\CoCarApp\ReadMe.txt Date: 11/6/2016 10:49:08 PM
+D:\TestFolder\POIS\AOS\АОС Таня\ТКП_4032(33)(31)\ТКП_ЛБ3_11.11.13\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 03\CoTextClient\ReadMe.txt Date: 11/6/2016 10:49:08 PM
+D:\TestFolder\POIS\AOS\АОС Таня\ТКП_4032(33)(31)\ТКП_ЛБ3_11.11.13\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 04\CarServerTypeInfo\CPP Import Client\ReadMe.txt Date: 11/6/2016 10:49:08 PM
+D:\TestFolder\POIS\AOS\АОС Таня\ТКП_4032(33)(31)\ТКП_ЛБ3_11.11.13\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 04\ShapesIDL\ReadMe.txt Date: 11/6/2016 10:49:08 PM
+D:\TestFolder\POIS\AOS\АОС Таня\ТКП_4032(33)(31)\ТКП_ЛБ3_11.11.13\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 05\CoCarEXE\ReadMe.txt Date: 11/6/2016 10:49:08 PM
+D:\TestFolder\POIS\AOS\АОС Таня\ТКП_4032(33)(31)\ТКП_ЛБ3_11.11.13\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 05\CPP Remote Client\ReadMe.txt Date: 11/6/2016 10:49:08 PM
+D:\TestFolder\POIS\AOS\АОС Таня\ТКП_4032(33)(31)\ТКП_ЛБ3_11.11.13\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 06\ATLShapesServer\CPP Client\ReadMe.txt Date: 11/6/2016 10:49:08 PM
+D:\TestFolder\POIS\AOS\АОС Таня\ТКП_4032(33)(31)\ТКП_ЛБ3_11.11.13\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 07\RawErrors\CPP Client\ReadMe.txt Date: 11/6/2016 10:49:08 PM
+D:\TestFolder\POIS\AOS\АОС Таня\ТКП_4032(33)(31)\ТКП_ЛБ3_11.11.13\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 08\ATLVehicals\CPP Client\ReadMe.txt Date: 11/6/2016 10:49:08 PM
+D:\TestFolder\POIS\AOS\АОС Таня\ТКП_4032(33)(31)\ТКП_ЛБ3_11.11.13\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 09\ATLShapes\CPP Client\ReadMe.txt Date: 11/6/2016 10:49:08 PM
+D:\TestFolder\POIS\AOS\АОС Таня\ТКП_4032(33)(31)\ТКП_ЛБ3_11.11.13\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 10\DualObject\MFC Client\ReadMe.txt Date: 11/6/2016 10:49:08 PM
+D:\TestFolder\POIS\AOS\АОС Таня\ТКП_4032(33)(31)\ТКП_ЛБ3_11.11.13\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 10\RawDisp\CPP Client\ReadMe.txt Date: 11/6/2016 10:49:09 PM
+D:\TestFolder\POIS\AOS\АОС Таня\ТКП_4032(33)(31)\ТКП_ЛБ3_11.11.13\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 11\AgeEnum\Client\ReadMe.txt Date: 11/6/2016 10:49:09 PM
+D:\TestFolder\POIS\AOS\АОС Таня\ТКП_4032(33)(31)\ТКП_ЛБ3_11.11.13\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 11\ATLEnumServer\CPP Client\ReadMe.txt Date: 11/6/2016 10:49:09 PM
+D:\TestFolder\POIS\AOS\АОС Таня\ТКП_4032(33)(31)\ТКП_ЛБ3_11.11.13\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 12\CarCallback\CPP Client\ReadMe.txt Date: 11/6/2016 10:49:09 PM
+D:\TestFolder\POIS\AOS\АОС Таня\ТКП_4032(33)(31)\ТКП_ЛБ3_11.11.13\Трельсен Э. - Модель COM и применение ATL 3.0\Samples\Chapter 12\RawConnObjServer\CPP Client\ReadMe.txt Date: 11/6/2016 10:49:09 PM
+D:\TestFolder\POIS\AOS\Аос_4032_33_\Lab_4_AOS\dmde-free-2.2.0-win32-con\eula_en.txt Date: 11/6/2016 10:49:10 PM
+D:\TestFolder\POIS\AOS\Аос_4032_33_\Lab_4_AOS\dmde-free-2.2.0-win32-con\ondeverr.txt Date: 11/6/2016 10:49:10 PM
+D:\TestFolder\POIS\AOS\Аос_4032_33_\Lab_4_AOS\dmde-free-2.2.0-win32-con\readmeen.txt Date: 11/6/2016 10:49:10 PM
+D:\TestFolder\POIS\AOS\Аос_4032_33_\Lab_4_AOS\dmde-free-2.2.0-win32-con\versions.txt Date: 11/6/2016 10:49:10 PM
+D:\TestFolder\POIS\AOS\Аос_4032_33_\Lab_4_AOS\dmde-free-2.2.0-win32-con\locals\eula_ru.txt Date: 11/6/2016 10:49:10 PM
+D:\TestFolder\POIS\AOS\Аос_4032_33_\Lab_4_AOS\dmde-free-2.2.0-win32-con\locals\readmeru.txt Date: 11/6/2016 10:49:10 PM
+D:\TestFolder\POIS\AOS\Лабы\Laboratory_Work_2\task.txt Date: 11/6/2016 10:49:10 PM
+D:\TestFolder\POIS\AOS\Лабы\Laboratory_Work_3\txtExp.reg Date: 11/6/2016 10:49:10 PM
+D:\TestFolder\POIS\AOS\Новая папка\p1.txt Date: 11/6/2016 10:49:10 PM
+D:\TestFolder\POIS\AOS\Новая папка\p2.txt Date: 11/6/2016 10:49:11 PM
+D:\TestFolder\POIS\AOS\Новая папка\cx\c11\f1.txt Date: 11/6/2016 10:49:11 PM
+D:\TestFolder\POIS\DB\mail.txt Date: 11/6/2016 10:49:11 PM
+D:\TestFolder\POIS\TSIS\TSIS_50325\50325_TSIS-Links.txt Date: 11/6/2016 10:49:11 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Sm_1.txt Date: 11/6/2016 10:49:12 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Sm_2.txt Date: 11/6/2016 10:49:12 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Рекурсия.txt Date: 11/6/2016 10:49:12 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Ссылка ООП.txt Date: 11/6/2016 10:49:12 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\avm\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.FileListAbsolute.txt Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\avm\ConsoleApplication1\obj\Debug\Lab2.csproj.FileListAbsolute.txt Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\avm\Lab1\obj\Debug\Lab1.csproj.FileListAbsolute.txt Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\Lab1\Lab1\obj\Debug\Lab1.csproj.FileListAbsolute.txt Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\Lab2\Lab2\obj\Debug\Lab2.csproj.FileListAbsolute.txt Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\Lab3\Lab3\obj\Debug\Lab3.csproj.FileListAbsolute.txt Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\Lab4\Lab4\obj\Debug\Lab4.csproj.FileListAbsolute.txt Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork1\LabWork1\obj\Debug\LabWork1.csproj.FileListAbsolute.txt Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task00\obj\Debug\Task00.csproj.FileListAbsolute.txt Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task02\obj\Debug\Task2.csproj.FileListAbsolute.txt Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task1\obj\Debug\Task1.csproj.FileListAbsolute.txt Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task3\obj\Debug\Task3.csproj.FileListAbsolute.txt Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task4\obj\Debug\Task4.csproj.FileListAbsolute.txt Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task5\obj\Debug\Task5.csproj.FileListAbsolute.txt Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task6\obj\Debug\Task6.csproj.FileListAbsolute.txt Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task7\obj\Debug\Task7.csproj.FileListAbsolute.txt Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task8\obj\Debug\Task8.csproj.FileListAbsolute.txt Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task8.2\obj\Debug\Task8.2.csproj.FileListAbsolute.txt Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task8.2\obj\Debug\Task8_2.csproj.FileListAbsolute.txt Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task9\obj\Debug\Task9.csproj.FileListAbsolute.txt Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork2\LabWork2\obj\Debug\LabWork2.csproj.FileListAbsolute.txt Date: 11/6/2016 10:49:14 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork3\data.txt Date: 11/6/2016 10:49:14 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork3\LabWork3\obj\Debug\LabWork3.csproj.FileListAbsolute.txt Date: 11/6/2016 10:49:14 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork3\LabWork3_2\data.txt Date: 11/6/2016 10:49:14 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork3\LabWork3_2\bin\Debug\data.txt Date: 11/6/2016 10:49:14 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork3\LabWork3_2\obj\Debug\LabWork3_2.csproj.FileListAbsolute.txt Date: 11/6/2016 10:49:14 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork4\LabWork4\bin\Debug\Log.txt Date: 11/6/2016 10:49:14 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork4\LabWork4\obj\Debug\LabWork4.csproj.FileListAbsolute.txt Date: 11/6/2016 10:49:14 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\Laba 2.txt Date: 11/6/2016 10:49:14 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\New folder\lab15\lab15\ReadMe.txt Date: 11/6/2016 10:49:15 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\New folder\lab16\lab16\ReadMe.txt Date: 11/6/2016 10:49:15 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\New folder\lab17\lab17\ReadMe.txt Date: 11/6/2016 10:49:15 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\New folder\КСР_Киселева\33.txt Date: 11/6/2016 10:49:19 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\New folder\КСР_Киселева\note.txt Date: 11/6/2016 10:49:19 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\1-й семестр\Задачи\,bu.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\1-й семестр\Задачи\1.1.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\1-й семестр\Задачи\1.2.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\1-й семестр\Задачи\1.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\1-й семестр\Задачи\111111.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\1-й семестр\Задачи\2.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\1-й семестр\Задачи\3.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\1-й семестр\Задачи\32.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\1-й семестр\Задачи\65.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\1-й семестр\Задачи\Big zada4a.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\1-й семестр\Задачи\blizneci ili net.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\1-й семестр\Задачи\data.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\1-й семестр\Задачи\dgdgd.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\1-й семестр\Задачи\druz'ya ili net.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\1-й семестр\Задачи\f.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\1-й семестр\Задачи\g.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\1-й семестр\Задачи\ghjuh.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\1-й семестр\Задачи\individ zadan1a.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\1-й семестр\Задачи\individ zadania.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\1-й семестр\Задачи\Massiv 1.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\1-й семестр\Задачи\na zadannonajti vse cifri del. na 6.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\1-й семестр\Задачи\SR.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\1-й семестр\Задачи\sredi 10 chisel opred kol-vo chotnih i nech..txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\1-й семестр\Задачи\sss.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\1-й семестр\Задачи\udalit' min cfru iz chisla.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\1-й семестр\Задачи\xccc.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\1-й семестр\Задачи\z1.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\1-й семестр\Задачи\zoo.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\1-й семестр\Задачи\Занятие 2.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\1-й семестр\Задачи\занятие 3.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\1-й семестр\Задачи\занятие 4.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\1-й семестр\Задачи\занятие 5.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\1-й семестр\Задачи\занятие 6.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\1-й семестр\Задачи\занятие 7.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\1-й семестр\Задачи\занятие 8.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\1-й семестр\Задачи\занятие 9.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\1-й семестр\Задачи\определяет кол-во чисел у которых кол-во цифр=младшей цифре.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\1-й семестр\Задачи\п.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\1-й семестр\Задачи\прога.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\1-й семестр\Задачи\Текстовый документ.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\1-й семестр\Задачи\Текстовыйd документ.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\1-й семестр\Задачи\Удаление чисел Мерсена.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\2-й семестр\lab\лаба 0.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\2-й семестр\lab\лаба 1.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\2-й семестр\lab\лаба 2 двухмерный.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\2-й семестр\lab\лаба 2 одномерный.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\2-й семестр\lab\лаба 3.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\2-й семестр\lab\лаба 4.1.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\2-й семестр\lab\лаба 4.2.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\2-й семестр\lab\лаба 4.3.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\2-й семестр\lab\лаба 4.4.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\2-й семестр\lab\лаба 4.5.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\2-й семестр\lab\лаба 6.1.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\2-й семестр\lab\лаба 6.2.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\2-й семестр\lab\лаба 6.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\даня\2-й семестр\lab\лаба 7.2.txt Date: 11/6/2016 10:49:20 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\Решения\Л2\Lab2.txt Date: 11/6/2016 10:49:21 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\Решения\Л3\Lab3.1.txt Date: 11/6/2016 10:49:21 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\Решения\Л3\Lab3.2.txt Date: 11/6/2016 10:49:21 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\Решения\Л3\Lab3.3.txt Date: 11/6/2016 10:49:21 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\Решения\Л3\Lab3.4.txt Date: 11/6/2016 10:49:21 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\Решения\Л4\lab4.txt Date: 11/6/2016 10:49:21 PM
+D:\TestFolder\POIS\АВМ\Thumbs.db Date: 11/6/2016 10:49:11 PM
+D:\TestFolder\POIS\АВМ\АВМ_Презентации_2011\Thumbs.db Date: 11/6/2016 10:49:12 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\04\a28ef1a0ac11169dc5cdb81fbd96b62df553b0 Date: 11/6/2016 10:49:12 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\0b\01d3333521cdbe4bc440418c5e4f88e0c52d6d Date: 11/6/2016 10:49:12 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\13\db877d8b45004de19ee5e7752ed59cfefc571b Date: 11/6/2016 10:49:12 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\18\44dbee007c4f9f95dc91b3bd78f71101c53139 Date: 11/6/2016 10:49:12 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\1b\1a2cb3b4a078755dbfcd0d40529c837c7e3399 Date: 11/6/2016 10:49:12 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\1b\7fede901bd51a22d8c30d5afd75428db83f162 Date: 11/6/2016 10:49:12 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\26\adae4dbb574994c61f0eb8fa4a608d9f4e8510 Date: 11/6/2016 10:49:12 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\27\05e8e71cffafc7b481e7726695dadb3c77cd9b Date: 11/6/2016 10:49:12 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\28\09c31f9e6d2a8065db26ed2dca45f0f10156ce Date: 11/6/2016 10:49:12 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\33\bff919d0b5c2736abf9a6ea349f279501ddbae Date: 11/6/2016 10:49:12 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\41\b893dbff6694b3945b90f97a10af36f5008e3d Date: 11/6/2016 10:49:12 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\44\1d3d3065b4059547da6071c86f92db20956ac0 Date: 11/6/2016 10:49:12 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\49\5db56ffe779a5dd91a88d98af13f4e66eebfa5 Date: 11/6/2016 10:49:12 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\5e\0d893f7195aea9c1e653389450667d2bdccdb8 Date: 11/6/2016 10:49:12 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\70\67f6f3322d0203dbc59d065d6a11599eea3ef1 Date: 11/6/2016 10:49:12 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\81\daa4dbb8975d4a3290b9427dbc74557e432bbe Date: 11/6/2016 10:49:12 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\83\929dfdbd3eb60c36ee67e2dcbbb0b1f31bd5a5 Date: 11/6/2016 10:49:12 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\85\be04a3cefc1f3547c341eca3afb3a56dbd1085 Date: 11/6/2016 10:49:12 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\87\1034e5fd9b2af95f1dc2d9163a5db66a59ee4b Date: 11/6/2016 10:49:12 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\a0\1060462b30f620db21af7ce2fd73040c7e489d Date: 11/6/2016 10:49:12 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\a2\901d896c0beaef3dba47d453df03bfa2069377 Date: 11/6/2016 10:49:12 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\a3\a772859892fc626386c917a3bf7db9ac038000 Date: 11/6/2016 10:49:12 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\a5\a636542a3db606e251b418564621a17218b190 Date: 11/6/2016 10:49:12 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\ae\0596a6de0f7517b5ef8e02790dbe75770c6542 Date: 11/6/2016 10:49:12 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\b1\4795de146a4c9032172cf3fac4a19dbe394bdc Date: 11/6/2016 10:49:12 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\b4\c69ab3393acf4ab624414921eb72bdbb5ccf7f Date: 11/6/2016 10:49:12 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\b9\4e72dbbc03aa4eb88006166183f475ffb42e38 Date: 11/6/2016 10:49:12 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\b9\79643e6f416a18aa5c5f8f91db957d0278aee0 Date: 11/6/2016 10:49:12 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\be\72c4d9559c382db0e82dddeac3978a6037a14f Date: 11/6/2016 10:49:12 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\c0\db27503dcaa51a27c11c4262aedee6f43447db Date: 11/6/2016 10:49:12 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\c4\0f03221d51910f1efca6b22db28aab908b122a Date: 11/6/2016 10:49:12 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\c7\08889b58cad860d27dbe17a0634ed05d010c08 Date: 11/6/2016 10:49:12 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\cb\69b91ca9d840baa24db352771c17119dd1f36f Date: 11/6/2016 10:49:12 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\d6\3d80dedbf16d7901ffd0924274012b684baf38 Date: 11/6/2016 10:49:12 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\db\2dbade2b850fc018e2cd6e064f008b9c1d64f2 Date: 11/6/2016 10:49:12 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\db\a1d3f3306b76db69ca7cfc24bb711b9edfcb43 Date: 11/6/2016 10:49:12 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\e3\233acb17f83a7cc189a30badbbda0a6f6b48e3 Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\e4\2dbc9204abcf5775c99121e85c288f958e1ba4 Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\e9\c58fd2ab70feba386c0a63ecdb794d891b1b96 Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\f1\cdba5e2fee147d23451863d8e2347ddf3aeb26 Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\f4\43745c54ab2228d0e9d0e84f497dbd4d8ee389 Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\f5\7db7ab46eb604f62ea945d386ddf9128bfd8d7 Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\f6\0dd32f97d62244d91cf87e6aa2c5d0c95cbddb Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\f6\228257c6472b7cbdd5a9044c86db37837e3181 Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\fd\383843216ddb6fe69e5c6b286d78a6bbd6a7de Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\.git\objects\fe\ddb8b8fa4492540c2784d6dac2268fb4174ec1 Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\avm\avm.VC.db Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\avm\avm\Debug\vc140.idb Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\avm\avm\Debug\vc140.pdb Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\avm\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\avm\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\avm\Debug\avm.pdb Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\avm\Lab1\bin\Debug\Lab1.pdb Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\avm\Lab1\obj\Debug\Lab1.pdb Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\Lab1\Lab1.VC.db Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\Lab1\Lab1\bin\Debug\Lab1.pdb Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\Lab1\Lab1\obj\Debug\Lab1.pdb Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\Lab2\Lab2.VC.db Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\Lab2\Lab2\bin\Debug\Lab2.pdb Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\Lab2\Lab2\obj\Debug\Lab2.pdb Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\Lab3\Lab3\bin\Debug\Lab3.pdb Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\Lab3\Lab3\obj\Debug\Lab3.pdb Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\Lab4\Lab4\bin\Debug\Lab4.pdb Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\Lab4\Lab4\obj\Debug\Lab4.pdb Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork1\LabWork1.VC.db Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork1\LabWork1\bin\Debug\LabWork1.pdb Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork1\LabWork1\obj\Debug\LabWork1.pdb Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task00\bin\Debug\Task00.pdb Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task00\obj\Debug\Task00.pdb Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task02\bin\Debug\Task02.pdb Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task02\obj\Debug\Task02.pdb Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task1\bin\Debug\Task1.pdb Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task1\obj\Debug\Task1.pdb Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task3\bin\Debug\Task3.pdb Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task3\obj\Debug\Task3.pdb Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task4\bin\Debug\Task4.pdb Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task4\obj\Debug\Task4.pdb Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task5\bin\Debug\Task5.pdb Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task5\obj\Debug\Task5.pdb Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task6\bin\Debug\Task6.pdb Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task6\obj\Debug\Task6.pdb Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task7\bin\Debug\Task7.pdb Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task7\obj\Debug\Task7.pdb Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task8\bin\Debug\Task8.pdb Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task8\obj\Debug\Task8.pdb Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task8.2\bin\Debug\Task8.2.pdb Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task8.2\obj\Debug\Task8.2.pdb Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task9\bin\Debug\Task9.pdb Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task9\obj\Debug\Task9.pdb Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork2\LabWork2\bin\Debug\LabWork2.pdb Date: 11/6/2016 10:49:13 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork2\LabWork2\obj\Debug\LabWork2.pdb Date: 11/6/2016 10:49:14 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork3\LabWork3\bin\Debug\LabWork3.pdb Date: 11/6/2016 10:49:14 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork3\LabWork3\obj\Debug\LabWork3.pdb Date: 11/6/2016 10:49:14 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork3\LabWork3_2\bin\Debug\LabWork3_2.pdb Date: 11/6/2016 10:49:14 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork3\LabWork3_2\obj\Debug\LabWork3_2.pdb Date: 11/6/2016 10:49:14 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork4\LabWork4\bin\Debug\LabWork4.pdb Date: 11/6/2016 10:49:14 PM
+D:\TestFolder\POIS\ОАПЯВУ\C#\Labs\LabWork4\LabWork4\obj\Debug\LabWork4.pdb Date: 11/6/2016 10:49:14 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\New folder\ex1\ex1.VC.db Date: 11/6/2016 10:49:14 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\New folder\ex1\Debug\ex1.pdb Date: 11/6/2016 10:49:14 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\New folder\ex1\ex1\Debug\vc140.idb Date: 11/6/2016 10:49:14 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\New folder\ex1\ex1\Debug\vc140.pdb Date: 11/6/2016 10:49:14 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\New folder\ex2\ex2.VC.db Date: 11/6/2016 10:49:14 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\New folder\ex2\Debug\ex2.pdb Date: 11/6/2016 10:49:14 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\New folder\ex2\ex2\Debug\vc140.idb Date: 11/6/2016 10:49:14 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\New folder\ex2\ex2\Debug\vc140.pdb Date: 11/6/2016 10:49:14 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\New folder\ex3\ex3.VC.db Date: 11/6/2016 10:49:14 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\New folder\ex3\Debug\ex3.pdb Date: 11/6/2016 10:49:14 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\New folder\ex3\ex3\Debug\vc140.idb Date: 11/6/2016 10:49:14 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\New folder\ex3\ex3\Debug\vc140.pdb Date: 11/6/2016 10:49:14 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\New folder\KSR2\KSR2.VC.db Date: 11/6/2016 10:49:14 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\New folder\KSR2\Debug\KSR2.pdb Date: 11/6/2016 10:49:14 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\New folder\KSR2\KSR2\Debug\vc140.idb Date: 11/6/2016 10:49:14 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\New folder\KSR2\KSR2\Debug\vc140.pdb Date: 11/6/2016 10:49:14 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\New folder\lab15\lab15.VC.db Date: 11/6/2016 10:49:15 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\New folder\lab15\Debug\lab15.pdb Date: 11/6/2016 10:49:15 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\New folder\lab15\lab15\Debug\vc100.idb Date: 11/6/2016 10:49:15 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\New folder\lab15\lab15\Debug\vc100.pdb Date: 11/6/2016 10:49:15 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\New folder\lab16\Debug\lab16.pdb Date: 11/6/2016 10:49:15 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\New folder\lab16\lab16\Debug\vc100.idb Date: 11/6/2016 10:49:15 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\New folder\lab16\lab16\Debug\vc100.pdb Date: 11/6/2016 10:49:15 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\New folder\lab17\lab17.VC.db Date: 11/6/2016 10:49:15 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\New folder\lab17\Debug\lab17.pdb Date: 11/6/2016 10:49:15 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\New folder\lab17\lab17\Debug\vc100.idb Date: 11/6/2016 10:49:15 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\New folder\lab17\lab17\Debug\vc100.pdb Date: 11/6/2016 10:49:15 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\Решения\Л4\Lab 4\Lab 4.VC.db Date: 11/6/2016 10:49:21 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\Решения\Л4\Lab 4\Debug\Lab 4(malloc_calloc).pdb Date: 11/6/2016 10:49:21 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\Решения\Л4\Lab 4\Debug\Lab4(New_Delite).pdb Date: 11/6/2016 10:49:21 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\Решения\Л4\Lab 4\Lab 4\Debug\vc100.idb Date: 11/6/2016 10:49:21 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\Решения\Л4\Lab 4\Lab 4\Debug\vc100.pdb Date: 11/6/2016 10:49:21 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\Решения\Л4\Lab 4\Lab4(New_Delite)\Debug\vc100.idb Date: 11/6/2016 10:49:21 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\Решения\Л4\Lab 4\Lab4(New_Delite)\Debug\vc100.pdb Date: 11/6/2016 10:49:21 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\Решения\Л5\Lab 5\Lab 5.VC.db Date: 11/6/2016 10:49:21 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\Решения\Л5\Lab 5\Debug\Lab 5_1.pdb Date: 11/6/2016 10:49:21 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\Решения\Л5\Lab 5\Debug\Lab5_2.pdb Date: 11/6/2016 10:49:21 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\Решения\Л5\Lab 5\Lab 5\Debug\vc100.idb Date: 11/6/2016 10:49:21 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\Решения\Л5\Lab 5\Lab 5\Debug\vc100.pdb Date: 11/6/2016 10:49:21 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\Решения\Л5\Lab 5\Lab5_2\Debug\vc100.idb Date: 11/6/2016 10:49:21 PM
+D:\TestFolder\POIS\ОАПЯВУ\C++\Решения\Л5\Lab 5\Lab5_2\Debug\vc100.pdb Date: 11/6/2016 10:49:21 PM

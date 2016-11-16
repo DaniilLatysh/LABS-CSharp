@@ -1,0 +1,6 @@
+D:\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task9\bin\Debug\Task9.exe.config
+D:\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task9\bin\Debug\Task9.exe
+D:\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task9\bin\Debug\Task9.pdb
+D:\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task9\obj\Debug\Task9.exe
+D:\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task9\obj\Debug\Task9.pdb
+D:\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task9\obj\Debug\Task9.csprojResolveAssemblyReference.cache
