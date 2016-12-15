@@ -1,6 +1,0 @@
-D:\POIS\ОАПЯВУ\C#\Labs\LabWork3\LabWork3\bin\Debug\LabWork3.exe.config
-D:\POIS\ОАПЯВУ\C#\Labs\LabWork3\LabWork3\bin\Debug\LabWork3.exe
-D:\POIS\ОАПЯВУ\C#\Labs\LabWork3\LabWork3\bin\Debug\LabWork3.pdb
-D:\POIS\ОАПЯВУ\C#\Labs\LabWork3\LabWork3\obj\Debug\LabWork3.csprojResolveAssemblyReference.cache
-D:\POIS\ОАПЯВУ\C#\Labs\LabWork3\LabWork3\obj\Debug\LabWork3.exe
-D:\POIS\ОАПЯВУ\C#\Labs\LabWork3\LabWork3\obj\Debug\LabWork3.pdb

@@ -1,6 +1,0 @@
-D:\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task4\bin\Debug\Task4.exe.config
-D:\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task4\obj\Debug\Task4.csprojResolveAssemblyReference.cache
-D:\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task4\bin\Debug\Task4.exe
-D:\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task4\bin\Debug\Task4.pdb
-D:\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task4\obj\Debug\Task4.exe
-D:\POIS\ОАПЯВУ\C#\Labs\LabWork1\Task4\obj\Debug\Task4.pdb

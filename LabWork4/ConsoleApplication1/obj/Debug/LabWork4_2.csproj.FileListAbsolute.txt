@@ -1,6 +1,0 @@
-D:\POIS\ОАПЯВУ\C#\Labs\LabWork4\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-D:\POIS\ОАПЯВУ\C#\Labs\LabWork4\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-D:\POIS\ОАПЯВУ\C#\Labs\LabWork4\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-D:\POIS\ОАПЯВУ\C#\Labs\LabWork4\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-D:\POIS\ОАПЯВУ\C#\Labs\LabWork4\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
-D:\POIS\ОАПЯВУ\C#\Labs\LabWork4\ConsoleApplication1\obj\Debug\LabWork4_2.csprojResolveAssemblyReference.cache

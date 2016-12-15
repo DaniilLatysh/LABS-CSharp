@@ -1,6 +1,0 @@
-D:\POIS\ОАПЯВУ\C#\Labs\LabWork5\LabWork5\bin\Debug\LabWork5.exe.config
-D:\POIS\ОАПЯВУ\C#\Labs\LabWork5\LabWork5\bin\Debug\LabWork5.exe
-D:\POIS\ОАПЯВУ\C#\Labs\LabWork5\LabWork5\bin\Debug\LabWork5.pdb
-D:\POIS\ОАПЯВУ\C#\Labs\LabWork5\LabWork5\obj\Debug\LabWork5.csprojResolveAssemblyReference.cache
-D:\POIS\ОАПЯВУ\C#\Labs\LabWork5\LabWork5\obj\Debug\LabWork5.exe
-D:\POIS\ОАПЯВУ\C#\Labs\LabWork5\LabWork5\obj\Debug\LabWork5.pdb
