@@ -162,6 +162,8 @@ namespace Calculator
                 {
                     ed = leftD * Math.PI / 180;
                 }
+                
+
 
                 if (specOperPer == "%" && oper == "")
                 {
@@ -210,6 +212,12 @@ namespace Calculator
                         break;
 
                     case "TG":
+                        
+                        if (specOper == "DEG" && leftD == 90)
+                        {
+                            right = "error";
+                            break;
+                        }
                         res = Math.Tan(ed);
                         right = res.ToString();
                         break;

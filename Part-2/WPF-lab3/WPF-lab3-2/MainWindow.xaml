@@ -1,0 +1,62 @@
+﻿<Window x:Class="WPF_lab3_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_lab3_2"
+        mc:Ignorable="d"
+        Title="List of worker" Height="350" Width="525"
+        HorizontalContentAlignment="Center"
+        VerticalContentAlignment="Center"
+        WindowStartupLocation="CenterScreen">
+    <Grid Background="#FFE7E7E7">
+        
+        <ListBox Name="list" Width="320" Height="300" Margin="180,0,0,0" ScrollViewer.VerticalScrollBarVisibility="Auto">
+            
+        </ListBox>
+
+        <Label Foreground="Black" FontWeight="Bold" Margin="10,0,0,0"> Second name</Label>
+        <TextBox Name="name" Width="160" Height="30" Margin="10,0,340,230" Padding="5,5,5,5" >
+
+        </TextBox>
+
+        <Label Foreground="Black" FontWeight="Bold"  Margin="10,60,0,0">Pay</Label>
+        <TextBox Name="pay" Width="160" Height="30" Margin="10,0,340,120" Padding="5,5,5,5">
+
+        </TextBox>
+
+        <Label Foreground="Black" FontWeight="Bold"  Margin="10,110,0,0">Post</Label>
+        <ComboBox Name="post" Width="160" Height="30" Margin="10,0,340,20" Padding="5,5,5,5" IsEditable="True">
+            <TextBlock>Manger</TextBlock>
+            <TextBlock>Saler</TextBlock>
+            <TextBlock>Developer</TextBlock>
+            <TextBlock>Accountant</TextBlock>
+            <TextBlock>Lawyer</TextBlock>
+        </ComboBox>
+        
+
+        <Label Foreground="Black" FontWeight="Bold"  Margin="10,160,0,0">City</Label>
+        <ComboBox Name="city" Width="160" Height="30" Margin="10,0,340,-80" Padding="5,5,5,5" IsEditable="True">
+            <TextBlock>Minsk</TextBlock>
+            <TextBlock>Brest</TextBlock>
+            <TextBlock>Grodno</TextBlock>
+            <TextBlock>Vitebsk</TextBlock>
+            <TextBlock>Mogilev</TextBlock>
+        </ComboBox>
+
+        <Label Foreground="Black" FontWeight="Bold"  Margin="10,210,0,0">Street / number</Label>
+        <ComboBox Name="street" Width="100" Height="30" Margin="10,0,400,-180" Padding="5,5,5,5" IsEditable="True">
+            <TextBlock>Kozlova</TextBlock>
+            <TextBlock>Rokosovskogo</TextBlock>
+            <TextBlock>Zvezdy</TextBlock>
+            <TextBlock>Mashinostroiteley</TextBlock>
+        </ComboBox>
+
+        <TextBox Name="Number" Width="40" Height="30" Margin="10,0,220,-180" Padding="5,5,5,5">
+            
+        </TextBox>
+
+        <Button Width="160" Height="30" Margin="10,0,340,-270" Click="Button_Save">SAVE</Button>
+
+    </Grid>
+</Window>
