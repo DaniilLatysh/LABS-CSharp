@@ -5,14 +5,14 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPF_lab4"
         mc:Ignorable="d"
-        Title="MainWindow" Height="600" Width="1200"
+        Title="MainWindow" Height="600" Width="1000"
         WindowStartupLocation="CenterScreen"
         >
 
     <Grid Name="Layout" MouseMove="AircraftImage_MouseMove">
 
         <Image Name="Place" 
-               Source="D:\POIS\ОАПЯВУ\C#\Labs\WPF-lab4\WPF-lab4\Source\place.jpg" 
+               Source="Source\place.jpg" 
                Margin="-1800,0,-8000,0" 
                MouseLeftButtonDown="AircraftImage_MouseLeftButtonDown"
                >
@@ -20,31 +20,30 @@
         </Image>
 
         <Image Name="AircraftImage" 
-               Source="D:\POIS\ОАПЯВУ\C#\Labs\WPF-lab4\WPF-lab4\Source\aircraft.png" 
+               Source="Source\aircraft.png" 
                Height="80"
                Margin="290,68,393.6,422.4"
+               MouseLeftButtonDown="AircraftImage_MouseLeftButtonDown_1"
                />
 
-        
+
 
 
         <Image Name="TankImage" 
-               Source="D:\POIS\ОАПЯВУ\C#\Labs\WPF-lab4\WPF-lab4\Source\tank.png" 
+               Source="Source\tank.png" 
                Height="100"
                Width="150" Margin="2500,400,-1864.4,70"
                />
         <Image Name="TankImage2" 
-               Source="D:\POIS\ОАПЯВУ\C#\Labs\WPF-lab4\WPF-lab4\Source\tank.png" 
+               Source="Source\tank.png" 
                Height="100"
                Width="150" Margin="3023,400,-2179.4,70"
                />
         <Image Name="TankImage3" 
-               Source="D:\POIS\ОАПЯВУ\C#\Labs\WPF-lab4\WPF-lab4\Source\tank.png" 
+               Source="Source\tank.png" 
                Height="100"
                Width="150" Margin="3361,400,-2517.4,70"
                />
-
-
 
     </Grid>
 </Window>

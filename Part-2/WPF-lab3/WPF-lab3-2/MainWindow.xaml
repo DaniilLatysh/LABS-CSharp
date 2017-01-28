@@ -17,12 +17,20 @@
 
         <Label Foreground="Black" FontWeight="Bold" Margin="10,0,0,0"> Second name</Label>
         <TextBox Name="name" Width="160" Height="30" Margin="10,0,340,230" Padding="5,5,5,5" >
-
+            <Binding Path="Name" NotifyOnValidationError="True">
+                <Binding.ValidationRules>
+                    <ExceptionValidationRule/>
+                </Binding.ValidationRules>
+            </Binding>
         </TextBox>
 
         <Label Foreground="Black" FontWeight="Bold"  Margin="10,60,0,0">Pay</Label>
         <TextBox Name="pay" Width="160" Height="30" Margin="10,0,340,120" Padding="5,5,5,5">
-
+            <Binding Path="Pay" NotifyOnValidationError="True">
+                <Binding.ValidationRules>
+                    <ExceptionValidationRule/>
+                </Binding.ValidationRules>
+            </Binding>
         </TextBox>
 
         <Label Foreground="Black" FontWeight="Bold"  Margin="10,110,0,0">Post</Label>
@@ -32,16 +40,19 @@
             <TextBlock>Developer</TextBlock>
             <TextBlock>Accountant</TextBlock>
             <TextBlock>Lawyer</TextBlock>
+            
         </ComboBox>
+        
         
 
         <Label Foreground="Black" FontWeight="Bold"  Margin="10,160,0,0">City</Label>
-        <ComboBox Name="city" Width="160" Height="30" Margin="10,0,340,-80" Padding="5,5,5,5" IsEditable="True">
+        <ComboBox Name="Sity" Width="160" Height="30" Margin="10,0,340,-80" Padding="5,5,5,5" IsEditable="True">
             <TextBlock>Minsk</TextBlock>
             <TextBlock>Brest</TextBlock>
             <TextBlock>Grodno</TextBlock>
             <TextBlock>Vitebsk</TextBlock>
             <TextBlock>Mogilev</TextBlock>
+           
         </ComboBox>
 
         <Label Foreground="Black" FontWeight="Bold"  Margin="10,210,0,0">Street / number</Label>
@@ -52,8 +63,12 @@
             <TextBlock>Mashinostroiteley</TextBlock>
         </ComboBox>
 
-        <TextBox Name="Number" Width="40" Height="30" Margin="10,0,220,-180" Padding="5,5,5,5">
-            
+        <TextBox Name="Number" Width="40" Height="30" Margin="10,0,220,-180" Padding="5,5,5,5" >
+            <Binding Path="NumberStreet" NotifyOnValidationError="True">
+                <Binding.ValidationRules>
+                    <ExceptionValidationRule/>
+                </Binding.ValidationRules>
+            </Binding>
         </TextBox>
 
         <Button Width="160" Height="30" Margin="10,0,340,-270" Click="Button_Save">SAVE</Button>
