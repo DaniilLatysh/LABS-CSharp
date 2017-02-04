@@ -32,14 +32,25 @@ namespace WPF_lab3_2
 
         public MainWindow()
         {
-            InitializeComponent();
-
-            string item = "";
-            StreamReader rd = new StreamReader("data.txt");
-
-            while ((item = rd.ReadLine()) != null)
+            try
             {
-                list.Items.Add(item);
+                InitializeComponent();
+                pers = new Person();
+                this.DataContext = pers;
+
+                string item = "";
+
+
+                StreamReader rd = new StreamReader("data.txt", true);
+
+                while ((item = rd.ReadLine()) != null)
+                {
+                    list.Items.Add(item);
+                }
+                rd.Close();
+            }
+            catch {
+                File.Create("data.txt");
             }
         }
 
@@ -47,27 +58,36 @@ namespace WPF_lab3_2
 
         private void AddPerson()
         {
-
-
-            pers = new Person();
-            this.DataContext = pers;
-
-            pers.Name = name.Text;
-            pers.Pay = int.Parse(pay.Text.ToString());
-
-            string item = pers.ToString();
-            list.Items.Add(item);
-
-
-
-
-
-            StreamWriter sw = new StreamWriter("data.txt");
-            foreach (var items in worker.Items)
+            try
             {
-                sw.WriteLine(items.ToString());
+
+                pers.Name = name.Text;
+                pers.Pay = double.Parse(pay.Text);
+                pers.Post = post.Text;
+                pers.Sity = Sity.Text;
+                pers.Street = street.Text;
+                pers.NumberStreet = int.Parse(Number.Text);
+
+                string item = pers.ToString();
+                list.Items.Add(item);
+
+                List<Person> col = new List<Person>();
+                col.Add(pers);
+
+                StreamWriter sw = new StreamWriter("data.txt", true);
+                
+                foreach (Person items in col)
+                {
+                    sw.WriteLine(items.ToString());
+                }
+
+                sw.Close();
+
             }
-            sw.Close();
+            catch (Exception e)
+            {
+                MessageBox.Show("Error: " + e.Message);
+            }
 
         }
 
@@ -79,8 +99,9 @@ namespace WPF_lab3_2
     }
   
 
-    public class Person //: IDataErrorInfo
+    public class Person : IDataErrorInfo
     {
+        
         private string _Name;
         private double _Pay;
         private string _Post;
@@ -88,7 +109,7 @@ namespace WPF_lab3_2
         private string _Street;
         private int _NumberStreet;
 
-        
+   
 
         public string Name
         {
@@ -98,17 +119,9 @@ namespace WPF_lab3_2
             }
             set
             {
-                if (value == "")
-                {
-                    throw new NotImplementedException("Incorrect Value!");
-                }
-                else
-                {
-                    _Name = value;
-                }
+                _Name = value;
             }
         }
-
         public double Pay
         {
             get
@@ -117,17 +130,9 @@ namespace WPF_lab3_2
             }
             set
             {
-                if (value <= 0)
-                {
-                    throw new NotImplementedException("Value must be more 0!");
-                }
-                else
-                {
-                    _Pay = value;
-                }
+                _Pay = value;
             }
         }
-
         public string Post
         {
             get
@@ -136,14 +141,7 @@ namespace WPF_lab3_2
             }
             set
             {
-                if (value == "")
-                {
-                    throw new NotImplementedException("Incorrect Value!");
-                }
-                else
-                {
-                    _Post = value;
-                }
+                _Post = value;
             }
         }
 
@@ -155,17 +153,9 @@ namespace WPF_lab3_2
             }
             set
             {
-                if (value == "")
-                {
-                    throw new NotImplementedException("Incorrect Value!");
-                }
-                else
-                {
-                    _Sity = value;
-                }
+                _Sity = value;
             }
         }
-
         public string Street
         {
             get
@@ -174,14 +164,7 @@ namespace WPF_lab3_2
             }
             set
             {
-                if (value == "")
-                {
-                    throw new NotImplementedException("Incorrect Value!");
-                }
-                else
-                {
-                    _Street = value;
-                }
+                _Street = value;
             }
         }
 
@@ -193,38 +176,77 @@ namespace WPF_lab3_2
             }
             set
             {
-                if (value <= 0)
-                {
-                    throw new NotImplementedException("Value must be more 0!");
-                }
-                else
-                {
-                    _NumberStreet = value;
-                }
+                _NumberStreet = value;
             }
         }
-        /*
-        public string Error
-        {
-            get
-            {
-                throw new NotImplementedException();
-            }
-        }
+
+
+
 
         public string this[string columnName]
         {
             get
             {
-                throw new NotImplementedException();
+                string error = String.Empty;
+                switch (columnName)
+                {
+                    case "Pay":
+                        if ((Pay < 0))
+                        {
+                            error = "Incorrect value";
+                        }
+                        break;
+                    case "Name":
+                        if (String.IsNullOrEmpty(Name))
+                        {
+                            error = "Input name";
+                        }
+                        break;
+                    case "Post":
+                        if (String.IsNullOrEmpty(Post))
+                        {
+                            error = "Input post";
+                        }
+                        break;
+                    case "Sity":
+                        if (String.IsNullOrEmpty(Post))
+                        {
+                            error = "Input Sity";
+                        }
+                        break;
+                    case "street":
+                        if (String.IsNullOrEmpty(Post))
+                        {
+                            error = "Input Sreet";
+                        }
+                        break;
+                    case "NumberStreet":
+                        if ((NumberStreet < 0))
+                        {
+                            error = "Incorrect value";
+                        }
+                        break;
+                }
+                return error;
             }
-        }*/
+           
+           
+        }
 
+        public string Error
+        {
+            get
+            {
+                return String.Empty;
+            }
+        }
+
+        
         public override string ToString()
         {
             return (_Name + " " + _Pay + " " + _Post + " " + _Sity + " " + _Street + " " + _NumberStreet);
         }
-
+        
     }
     
 }

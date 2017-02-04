@@ -1,0 +1,63 @@
+﻿<Window x:Class="WPF_lab5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_lab5"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="Paint" 
+        
+        Height="500" Width="600">
+    <Grid Name="Layout"  MouseMove="MousePosition_MouseMove">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="0.3*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="0.2*"/>
+        </Grid.RowDefinitions>
+        <Menu Name="Menu">
+            <MenuItem Header="File" >
+                <MenuItem Header="Save" Click="Save_MouseLeftButtonDown">
+                    
+                </MenuItem>
+                <MenuItem Header="Open" Click="Open_MouseLeftButtonDown">
+
+                </MenuItem>
+                <MenuItem Header="Exit" Click="Exit_Click"></MenuItem>
+            </MenuItem>
+            
+        </Menu>
+        <ToolBar Name="Thickness" Margin="0,0,0.4,9.6" Grid.Row="1">
+            <Label>Thickness:</Label>
+            <ComboBox Name ="Thck" IsEditable="True" Width="60">
+                <ComboBoxItem Selector.IsSelected="True">4</ComboBoxItem>
+                <ComboBoxItem>6</ComboBoxItem>
+                <ComboBoxItem>8</ComboBoxItem>
+                <ComboBoxItem>10</ComboBoxItem>
+            </ComboBox>
+            <Separator></Separator>
+            <Label> Line color RGB:</Label>
+            <TextBox  Name="rL" Width="30">155</TextBox>
+            <TextBox  Name="gL" Width="30">155</TextBox>
+            <TextBox  Name="bL" Width="30">155</TextBox>
+            <Separator></Separator>
+            <Label> Background color RGB:</Label>
+            <TextBox  Name="rB" Width="30">0</TextBox>
+            <TextBox  Name="gB" Width="30">255</TextBox>
+            <TextBox  Name="bB" Width="30">30</TextBox>
+            
+        </ToolBar>
+
+        <Canvas Name="Canvas" 
+                Background="Aqua"  
+                ClipToBounds="True"
+                MouseLeftButtonDown="Canvas_MouseLeftButtonDown" 
+                Margin="10,0,10.6,9.4" 
+                Grid.Row="2"/>
+        
+        <Label Name="FileName" Grid.Row="2" Margin="0,360,300,0" Grid.RowSpan="2" VerticalAlignment="Center">File name:</Label>
+        <Label Name="MousePosition" Grid.Row="2" Margin="300,360,0,0" Grid.RowSpan="2" VerticalAlignment="Center">Mouse position:</Label>
+
+    </Grid>
+</Window>
