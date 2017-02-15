@@ -1,0 +1,33 @@
+﻿<Window x:Class="WPF_Lab6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Lab6"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid TextBlock.TextAlignment="Center">
+        <Label Name="aLabel" Margin="79,31,-78.6,-31.2">A</Label>
+        <TextBox Name="aBox" Margin="79,59,379.4,229.8" Padding="2,2,2,2"/>
+
+        <Label Name="bLabel" Margin="144,31,-143.6,-31.2">B</Label>
+        <TextBox Name="bBox" Margin="144,59,314.4,229.8" Padding="2,2,2,2"/>
+
+        <Label Name="dLabel" Margin="209,31,-208.6,-31.2">D</Label>
+        <TextBox Name="dBox" Margin="209,59,249.4,229.8" Padding="2,2,2,2"/>
+
+        <!--<Label Name="hLabel" Margin="259,31,-258.6,-31.2">H</Label>
+        <TextBox Name="hBox" Margin="259,59,199.4,229.8" Padding="2,2,2,2"/>-->
+
+        <Label Name="iLabel" Margin="274,31,-273.6,-31.2">I</Label>
+        <TextBox Name="iBox" Margin="274,59,184.4,229.8" Padding="2,2,2,2"/>
+
+        <Label Name="NLabel" Margin="339,31,-338.6,-31.2">N</Label>
+        <TextBox Name="NBox" Margin="339,59,110.4,229.8" Padding="2,2,2,2"/>
+
+        <Button Name="Start" Click="Start_Click" Margin="191,149,208.4,125.8">Start</Button>
+
+        <ProgressBar Name="ProgressBar" Height="30" Margin="79,223,84.4,49.8" />
+
+    </Grid>
+</Window>
