@@ -1,0 +1,16 @@
+﻿<Window x:Class="WPF_Lab6.DialogWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Lab6"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="Input value" Height="167.797" Width="275">
+    <Grid>
+        <Label Margin="10,10,9.8,76.8">Input N:</Label>
+        <TextBox Name="nForm" Margin="10,40,8.8,61.6" Text="{Binding Path=ValueCheck, UpdateSourceTrigger=PropertyChanged, ValidatesOnExceptions=True, NotifyOnValidationError=True}"/>
+        <Button Name="Button_OK" Click="Click_Button_Ok" Content="Ok" Margin="163,89,8.8,17.6"/>
+        <Button Name="Button_Cancel" Click="Click_Button_Cancel" Content="Cancel" Margin="10,89,161.8,17.6"/>
+    </Grid>
+</Window>
