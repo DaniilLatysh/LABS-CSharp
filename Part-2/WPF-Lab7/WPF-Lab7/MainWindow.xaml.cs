@@ -29,6 +29,7 @@ namespace WPF_Lab7
             priceGrid.ItemsSource = db.priceTable.DefaultView;
         }
 
+        //-- Dele
         private void DeleteButton_Click(object sender, RoutedEventArgs e)
         {
             if (priceGrid.SelectedItem != null)
@@ -70,13 +71,11 @@ namespace WPF_Lab7
             {
                 Console.WriteLine("\n No connection... \n");
             }
-
         }
 
         //-- Load all ----
         public void LoadData()
         {
-            string sql = "SELECT * FROM Price";
 
             priceTable = new DataTable();
 
@@ -84,7 +83,7 @@ namespace WPF_Lab7
             {
                 Connect();
 
-                SqlCommand command = new SqlCommand(sql, connection);
+                SqlCommand command = new SqlCommand("SELECT * FROM Price", connection);
                 adapter = new SqlDataAdapter(command);
 
                 adapter.InsertCommand = new SqlCommand("insertRow", connection);
@@ -119,15 +118,11 @@ namespace WPF_Lab7
                 SqlCommandBuilder cb = new SqlCommandBuilder(adapter);
                 adapter.Update(priceTable);
             }
-            catch {
-
+            catch
+            {
                 LoadData();
             }
         }
 
-        public void Delete()
-        {
-                
-        }
     }
 }

@@ -1,0 +1,5 @@
+LIBRARY LATYSH_DLL
+DESCRIPTION "My DLL DEMO"
+EXPORTS
+OpenFile @1
+SearchStringFile @2

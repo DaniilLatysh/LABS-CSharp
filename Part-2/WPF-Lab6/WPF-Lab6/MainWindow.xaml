@@ -14,9 +14,13 @@
         <Label Name="bLabel" Margin="144,31,-143.6,-31.2">B</Label>
         <TextBox Name="bBox" Margin="144,59,314.4,229.8" Padding="2,2,2,2"/>
 
+        <Label x:Name="ResultTitle" Margin="317,31,-316.6,-31.2" Content="Result"/>
+        <TextBox x:Name="Result" Margin="317,59,84.4,229.8" Padding="2,2,2,2"/>
+
         <Button Name="Start" Click="Start_Click" Margin="191,149,208.4,125.8">Start</Button>
 
         <ProgressBar Name="ProgressBar" Height="30" Margin="79,223,84.4,49.8" />
+        
 
     </Grid>
 </Window>

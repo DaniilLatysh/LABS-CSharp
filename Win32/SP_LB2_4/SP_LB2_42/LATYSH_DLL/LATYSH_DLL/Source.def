@@ -1,0 +1,7 @@
+LIBRARY LATYSH_DLL
+EXPORTS
+Fun91 @1
+Fun92 @2
+Fun93 @3
+g_nFnCallsCount @4
+g_nDllCallsCount @5

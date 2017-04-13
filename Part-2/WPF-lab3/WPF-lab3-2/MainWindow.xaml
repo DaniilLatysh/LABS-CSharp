@@ -9,6 +9,36 @@
         HorizontalContentAlignment="Center"
         VerticalContentAlignment="Center"
         WindowStartupLocation="CenterScreen">
+    
+    
+    <Window.Resources>
+        <ControlTemplate x:Key="validationFailed">
+            <StackPanel Orientation="Horizontal">
+                <Border BorderBrush="Red" BorderThickness="1" Height="30">
+                    <AdornedElementPlaceholder>
+                    </AdornedElementPlaceholder>
+                </Border>
+                <TextBlock Foreground="Red" FontSize="25" FontWeight="Bold">!</TextBlock>
+            </StackPanel>
+        </ControlTemplate>
+        <Style TargetType="TextBox">
+            <Style.Triggers>
+                <Trigger Property="Validation.HasError" Value="True">
+                    <Setter Property="ToolTip"
+                        Value="{Binding RelativeSource={RelativeSource Self},Path=(Validation.Errors)[0].ErrorContent}"/>
+                    <Setter Property="Foreground" Value="Red" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        <Style TargetType="ComboBox">
+            <Style.Triggers>
+                <Trigger Property="SelectedItem" Value="{x:Null}">
+                    <Setter Property="SelectedIndex" Value="0"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    
     <Grid Background="#FFE7E7E7">
         
         <ListBox Name="list" Width="320" Height="300" Margin="180,0,0,0" ScrollViewer.VerticalScrollBarVisibility="Auto">
@@ -25,12 +55,11 @@
         </TextBox>
 
         <Label Foreground="Black" FontWeight="Bold"  Margin="10,60,0,0">Pay</Label>
-        <TextBox Name="pay" Width="160" Height="30" Margin="10,0,340,120" Padding="5,5,5,5">
-            <Binding Path="Pay" NotifyOnValidationError="True">
-                <Binding.ValidationRules>
-                    <ExceptionValidationRule/>
-                </Binding.ValidationRules>
-            </Binding>
+        <TextBox Name="pay" Width="160" Height="30" Margin="10,0,340,120" Padding="5,5,5,5" 
+                 Text="{Binding Count, Mode=TwoWay, 
+                            ValidatesOnExceptions=True,
+                            ValidatesOnDataErrors=True, 
+                            NotifyOnValidationError=True}">
         </TextBox>
 
         <Label Foreground="Black" FontWeight="Bold"  Margin="10,110,0,0">Post</Label>

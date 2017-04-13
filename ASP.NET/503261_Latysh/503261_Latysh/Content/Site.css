@@ -1,0 +1,96 @@
+﻿
+html body {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    height: 100%;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.header-strip {
+    background-color: #222222;
+    padding: 5px;
+    border-bottom: 3px solid #428bca;
+}
+
+.header-strip a, .header-strip span {
+    color: #999999;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+.navbar-inverse {
+    border-color: #222222;
+}
+
+.logo {
+    float: left;
+    width: 50%;
+}
+
+.navbar {
+    border-radius: 0;
+    margin-bottom: 0;
+}
+
+.content {
+    border-bottom: 3px solid #428bca;
+    min-height: 620px;
+}
+
+.footer-strip {
+    background-color: #222222;     
+    padding:5px;     
+    color:#428bca; 
+}
+
+.social-icon {
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.twitter {
+    background: url(../Content/Images/Twitter.png);
+}
+
+.vk {
+    background: url(../Content/Images/VK.png);
+}
+
+.facebook {
+    background: url(../Content/Images/FB.png);
+}
+
+.footer-strip li {
+    list-style-type: none;
+}
+
+.footer-strip a {
+    color: #999999;
+}
+
+.footer-strip h6
+{
+    color: #999999;
+    border-bottom: dotted 1px #999999;
+}

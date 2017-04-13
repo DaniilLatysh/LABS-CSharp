@@ -61,12 +61,12 @@ namespace WPF_lab3_2
             try
             {
 
-                pers.Name = name.Text;
-                pers.Pay = double.Parse(pay.Text);
-                pers.Post = post.Text;
-                pers.Sity = Sity.Text;
-                pers.Street = street.Text;
-                pers.NumberStreet = int.Parse(Number.Text);
+                pers._Name = name.Text;
+                pers._Pay = int.Parse(pay.Text);
+                pers._Post = post.Text;
+                pers._Sity = Sity.Text;
+                pers._Street = street.Text;
+                pers._NumberStreet = int.Parse(Number.Text);
 
                 string item = pers.ToString();
                 list.Items.Add(item);
@@ -95,153 +95,101 @@ namespace WPF_lab3_2
         {
             AddPerson();
         }
+        private void TextBox_Error(object sender, ValidationErrorEventArgs e)
+        {
+            MessageBox.Show(e.Error.ErrorContent.ToString());
+        }
 
     }
-  
+    public interface IDataErrorInfo
+    {
+        string Error { get; }
+        string this[string columnName] { get; }
+    }
 
     public class Person : IDataErrorInfo
     {
         
-        private string _Name;
-        private double _Pay;
-        private string _Post;
-        private string _Sity;
-        private string _Street;
-        private int _NumberStreet;
+        public string _Name { get; set; }
+        public string _Post { get; set; }
+        public string _Sity { get; set; }
+        public string _Street { get; set; }
 
-   
-
-        public string Name
+        private int pValue, sValue;
+        public int _Pay
         {
-            get
-            {
-                return _Name;
-            }
-            set
-            {
-                _Name = value;
-            }
-        }
-        public double Pay
-        {
-            get
-            {
-                return _Pay;
-            }
-            set
-            {
-                _Pay = value;
-            }
-        }
-        public string Post
-        {
-            get
-            {
-                return _Post;
-            }
-            set
-            {
-                _Post = value;
-            }
+            get { return pValue; }
+            set { if (IsIdValid(value) && pValue != value) pValue = value; }
         }
 
-        public string Sity
+        public int _NumberStreet
         {
-            get
-            {
-                return _Sity;
-            }
-            set
-            {
-                _Sity = value;
-            }
+            get { return sValue; }
+            set { if (IsIdValid(value) && sValue != value) sValue = value; }
         }
-        public string Street
+
+
+        private Dictionary<String, List<String>> errors =
+            new Dictionary<string, List<string>>();
+        private const string ID_ERROR = "Value cannot be less than 0.";
+
+        // Validates the Id property, updating the errors collection as needed.
+        public bool IsIdValid(int value)
         {
-            get
+            bool isValid = true;
+
+            if (value <= 0)
             {
-                return _Street;
+                AddError("Id", ID_ERROR, false);
+                isValid = false;
             }
-            set
+            else RemoveError("Id", ID_ERROR);
+
+            return isValid;
+        }
+
+        // Adds the specified error to the errors collection if it is not already 
+        // present, inserting it in the first position if isWarning is false. 
+        public void AddError(string propertyName, string error, bool isWarning)
+        {
+            if (!errors.ContainsKey(propertyName))
+                errors[propertyName] = new List<string>();
+
+            if (!errors[propertyName].Contains(error))
             {
-                _Street = value;
+                if (isWarning) errors[propertyName].Add(error);
+                else errors[propertyName].Insert(0, error);
             }
         }
 
-        public int NumberStreet
+        // Removes the specified error from the errors collection if it is present. 
+        public void RemoveError(string propertyName, string error)
         {
-            get
+            if (errors.ContainsKey(propertyName) &&
+                errors[propertyName].Contains(error))
             {
-                return _NumberStreet;
-            }
-            set
-            {
-                _NumberStreet = value;
+                errors[propertyName].Remove(error);
+                if (errors[propertyName].Count == 0) errors.Remove(propertyName);
             }
         }
 
 
-
-
-        public string this[string columnName]
-        {
-            get
-            {
-                string error = String.Empty;
-                switch (columnName)
-                {
-                    case "Pay":
-                        if ((Pay < 0))
-                        {
-                            error = "Incorrect value";
-                        }
-                        break;
-                    case "Name":
-                        if (String.IsNullOrEmpty(Name))
-                        {
-                            error = "Input name";
-                        }
-                        break;
-                    case "Post":
-                        if (String.IsNullOrEmpty(Post))
-                        {
-                            error = "Input post";
-                        }
-                        break;
-                    case "Sity":
-                        if (String.IsNullOrEmpty(Post))
-                        {
-                            error = "Input Sity";
-                        }
-                        break;
-                    case "street":
-                        if (String.IsNullOrEmpty(Post))
-                        {
-                            error = "Input Sreet";
-                        }
-                        break;
-                    case "NumberStreet":
-                        if ((NumberStreet < 0))
-                        {
-                            error = "Incorrect value";
-                        }
-                        break;
-                }
-                return error;
-            }
-           
-           
-        }
-
+        #region 
         public string Error
         {
-            get
-            {
-                return String.Empty;
-            }
+            get { throw new NotImplementedException(); }
         }
 
-        
+        public string this[string propertyName]
+        {
+            get
+            {
+                return (!errors.ContainsKey(propertyName) ? null :
+                    String.Join(Environment.NewLine, errors[propertyName]));
+            }
+        }
+        #endregion
+
         public override string ToString()
         {
             return (_Name + " " + _Pay + " " + _Post + " " + _Sity + " " + _Street + " " + _NumberStreet);

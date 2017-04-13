@@ -28,7 +28,7 @@ namespace WPF_Lab6
 
         public event Action<double> ProgressChanged;
 
-        public event Action<bool> WorkComlite;
+        public event Action<bool, double> WorkComlite;
 
 
         public Work(double a, double b, int N)
@@ -53,9 +53,7 @@ namespace WPF_Lab6
              
 
             _checkComplite = true;
-            WorkComlite(_checkComplite);
-
-            MessageBox.Show("Result: " + y);
+            WorkComlite(_checkComplite, y);
         }
   
     }
@@ -98,16 +96,18 @@ namespace WPF_Lab6
             }
         }
 
-        private void Complite(bool comlite) {
+        private void Complite(bool comlite, double result) {
             Action act = () => 
             {
                 Start.IsEnabled = comlite;
-                MessageBox.Show(" Comlite!");
+                Result.Text = Convert.ToString(result);
             };
             
 
             Start.Dispatcher.BeginInvoke(act);
         }
+
+        
 
         private void Progress(double progress)
         {
